@@ -7,7 +7,7 @@ Descargar todas las carpetas del repositorio en un archivo .zip y descomprimir.
 EJERCICIO 4:
 Abrir el archivo.js con VS Code. En la consola dirigirse a la carpeta contenedora de dicho archivo e instalar el paquete request-promise con el siguiente comando:
 
-npm instal—save request-promise
+npm install --save request-promise
 
 Luego ejecutar el programa con el comando: node mostrarPersonas.js 
 
