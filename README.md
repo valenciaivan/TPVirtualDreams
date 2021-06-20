@@ -6,20 +6,28 @@ Descargar todas las carpetas del repositorio en un archivo .zip y descomprimir.
 
 EJERCICIO 4:
 Abrir el archivo.js con VS Code. En la consola dirigirse a la carpeta contenedora de dicho archivo e instalar el paquete request-promise con el siguiente comando:
+
 npm instal—save request-promise
+
 Luego ejecutar el programa con el comando: node mostrarPersonas.js 
 
 EJERCICIO 5:
 Añadimos la carpeta ejercicio_5 al WorkSpace del VS Code y nos dirigimos al archivo server.js
 A continuación instalamos los paquetes de express y body-parser con los siguientes comandos:
-npm install express
+
+npm install express.
 npm install body-parser
+
 Luego, iniciar el servidor con el comando npm init.
 Luego de iniciar el servidor, lo levantamos con el comando node server. La aplicación se ejecutara en http://localhost:3000
 Para probar el programa abrimos Postman y le enviamos contenidos de tipo JSON con el método POST a la URL de mas arriba.
 
 EJERCICIO 6:
 Para la ejecución del ejercicio 6, abrimos el archivo.html con el navegador de preferencia y enviamos un formulario, que será enviado con el método POST al servidor del ejercicio 5.
+
+RESPUESTA EJERCICIO 3:
+
+La diferencia que observo es que se agrega un objeto json con mis datos a la base de datos de la URL utilizada. De forma que puedo verla al final del documento.
 
 RESPUESTAS EJERCICIO 2:
 
