@@ -21,6 +21,7 @@ Para probar el programa abrimos Postman y le enviamos contenidos de tipo JSON co
 EJERCICIO 6:
 Para la ejecución del ejercicio 6, abrimos el archivo.html con el navegador de preferencia y enviamos un formulario, que será enviado con el método POST al servidor del ejercicio 5.
 
+RESPUESTAS EJERCICIO 2:
 
 
 1)
